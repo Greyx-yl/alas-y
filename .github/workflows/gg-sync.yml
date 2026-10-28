@@ -2,7 +2,7 @@ name: GG Sync (upstream master -> jp)
 
 on:
   schedule:
-    - cron: '30 19 * * *'  # 每天北京时间 03:30
+    - cron: '30 19 * * *'  # 姣忓ぉ鍖椾含鏃堕棿 03:30
   workflow_dispatch:
 
 permissions:
